@@ -28,4 +28,4 @@ uv run src/2025/2025-03-04/main.py
 
 #### 2026-01-20 - Top 10 astrophotographers
 
-![](src\2026\20260120\output.png)
+![](src/2026/20260120/output.png)
