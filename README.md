@@ -14,7 +14,7 @@ uv sync
 Then you can run any of the scripts in the `src` folder.
 
 ```bash
-uv run src/2025/2025-03-04/main.py
+uv run src/2026/20260113/main.py
 ```
 
 <br><br>
