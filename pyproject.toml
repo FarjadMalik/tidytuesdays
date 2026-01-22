@@ -1,0 +1,29 @@
+[project]
+name = "tidytuesday"
+version = "0.1.0"
+description = "Contributions to the TidyTuesday challenge"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bumplot>=0.1.1",
+    "cartopy>=0.24.1",
+    "dayplot>=0.4.2",
+    "dotenv>=0.9.9",
+    "drawarrow>=0.0.3",
+    "fleur>=0.0.4",
+    "geopandas>=1.1.0",
+    "highlight-text>=0.2",
+    "matplotlib>=3.10.1",
+    "mplcyberpunk>=0.7.6",
+    "mpljourney>=0.1.0",
+    "plotjs>=0.0.5",
+    "polars>=1.31.0",
+    "pydytuesday>=0.0.4",
+    "pyfonts>=1.0.0",
+    "pypalettes>=0.1.5",
+    "pywaffle>=1.1.1",
+    "requests>=2.32.3",
+    "ruff>=0.11.10",
+    "seaborn>=0.13.2",
+    "snaplot>=0.1.0",
+]
