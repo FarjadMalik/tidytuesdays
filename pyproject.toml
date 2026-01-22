@@ -18,6 +18,7 @@ dependencies = [
     "mpljourney>=0.1.0",
     "plotjs>=0.0.5",
     "polars>=1.31.0",
+    "pyarrow>=23.0.0",
     "pydytuesday>=0.0.4",
     "pyfonts>=1.0.0",
     "pypalettes>=0.1.5",

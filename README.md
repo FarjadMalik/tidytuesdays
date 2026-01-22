@@ -24,7 +24,7 @@ uv run src/2025/2025-03-04/main.py
 
 #### 2026-01-13 - Languages of Africa
 
-![](src\2026\20260113\output.png)
+![](src/2026/20260113/output.png)
 
 #### 2026-01-20 - Top 10 astrophotographers
 
