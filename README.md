@@ -31,3 +31,12 @@ uv run src/2026/20260113/main.py
 #### 2026-01-20 - Top 10 astrophotographers
 
 ![](src/2026/20260120/output.png)
+
+#### 2026-01-27 - Brazilian companies
+
+![](src/2026/20260127/output.png)
+
+
+#### 2026-02-03 - Edible Plants
+
+![](src/2026/20260203/output.png)
