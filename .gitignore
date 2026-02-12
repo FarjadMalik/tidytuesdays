@@ -218,3 +218,6 @@ temp/
 # Notebook files
 *.ipynb_checkpoints
 *.ipynb
+
+# html files
+*.html
