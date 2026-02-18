@@ -12,6 +12,7 @@ dependencies = [
     "drawarrow>=0.0.3",
     "fleur>=0.0.4",
     "geopandas>=1.1.0",
+    "great-tables>=0.20.0",
     "highlight-text>=0.2",
     "kaleido>=1.2.0",
     "matplotlib>=3.10.1",
@@ -31,5 +32,6 @@ dependencies = [
     "requests>=2.32.3",
     "ruff>=0.11.10",
     "seaborn>=0.13.2",
+    "selenium>=4.40.0",
     "snaplot>=0.1.0",
 ]

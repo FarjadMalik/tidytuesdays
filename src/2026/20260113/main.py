@@ -5,9 +5,9 @@ import geopandas as gpd
 from pyfonts import load_font
 
 # =============================================================================
-# DESIGN PHILOSOPHY
+# Story
 # =============================================================================
-# Story: The number of languages natively spoken in Africa is variously estimated
+# The number of languages natively spoken in Africa is variously estimated
 # (depending on the delineation of language vs. dialect) at between 1,250 and 2,100
 # and by some counts at over 3,000.
 #
@@ -18,8 +18,6 @@ from pyfonts import load_font
 # Which family of languages has the highest density of speakers?
 # Are there any languages that cut across multiple countries?
 #
-# Design principles:
-# - Minimalist aesthetic to highlight the beauty of languages from africa.
 # =============================================================================
 
 # Load data

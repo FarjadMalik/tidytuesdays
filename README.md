@@ -40,3 +40,24 @@ uv run src/2026/20260113/main.py
 #### 2026-02-03 - Edible Plants
 
 ![](src/2026/20260203/output.png)
+
+
+#### 2026-02-10 - Olympic Events
+
+![](src/2026/20260210/table.png)
+
+#### 2026-02-17 - Agricultural production NZ
+
+![](src/2026/20260217/output.png)
+
+
+
+
+
+
+### Then some
+
+#### Corruption index 2026
+
+![](src/then_some/corruption_index.png)
+

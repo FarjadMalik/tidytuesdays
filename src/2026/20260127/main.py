@@ -3,10 +3,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # =============================================================================
-# DESIGN PHILOSOPHY
+# Story
 # =============================================================================
-# Story:
-#
 # A collection of socially impactful and visually stunning plots
 # for analyzing company characteristics and relationships
 # =============================================================================

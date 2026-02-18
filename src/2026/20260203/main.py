@@ -2,12 +2,9 @@ import polars as pl
 import plotly.express as px
 
 # =============================================================================
-# DESIGN PHILOSOPHY
+# Story
 # =============================================================================
-# Story:
-#
-# Design principles:
-# -
+# This week we're exploring the properties of various edible plants.
 # =============================================================================
 
 # Load data
@@ -73,9 +70,11 @@ def parse_botanical_range(col_name):
         .str.extract_all(r"(\d+\.?\d*)")
         .map_elements(
             # Using a list comprehension and checking length safely
-            lambda x: sum(float(i) for i in x) / len(x)
-            if (x is not None and len(x) > 0)
-            else None,
+            lambda x: (
+                sum(float(i) for i in x) / len(x)
+                if (x is not None and len(x) > 0)
+                else None
+            ),
             return_dtype=pl.Float64,
         )
     )
